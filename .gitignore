@@ -4,9 +4,5 @@
 # Ignorer tous les fichiers PEM (certificats privés)
 *.pem
 
-# Ignorer tous les fichiers CRT privés (à vérifier selon contexte)
+# Ignorer tous les fichiers CRT privés
 *.crt
-
-# Ignorer un fichier spécifique de mots de passe si tu en as
-passwords.txt
-secret.conf
