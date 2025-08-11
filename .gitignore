@@ -1,0 +1,12 @@
+# Ignorer toutes les clés privées
+*.key
+
+# Ignorer tous les fichiers PEM (certificats privés)
+*.pem
+
+# Ignorer tous les fichiers CRT privés (à vérifier selon contexte)
+*.crt
+
+# Ignorer un fichier spécifique de mots de passe si tu en as
+passwords.txt
+secret.conf
